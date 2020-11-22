@@ -95,6 +95,3 @@ I'm a weeaboo who loves coding 😜 . I liked coding since I was in 6th grade (w
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
