@@ -19,7 +19,7 @@
 
 
 ### Glad to see you here!  
-I'm a weeaboo who loves coding 😜 . I liked coding since I was in 6th grade (while on holiday waiting for the national exam results). 🔥🔥🔥  
+I liked coding since I was in 6th grade (while on holiday waiting for the national exam results). 🔥🔥🔥  
   
 
 <br/>  
