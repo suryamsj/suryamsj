@@ -34,7 +34,7 @@ I liked coding since I was in 6th grade (while on holiday waiting for the nation
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.imgur.com/JULI7EN.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/JpILMsz.gif" align="center" style="width: 100%" />
 </div>  
 
 
