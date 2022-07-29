@@ -25,9 +25,7 @@ I liked coding since I was in 6th grade (while on holiday waiting for the nation
 ## Info  
 <table><tr><td valign="top" width="50%">
 
-- 🎓 Trilogi University Student  
-  
-
+- 🎓 Graduated from Trilogy University
 - ⚡ I like to drink tea  
 
 
