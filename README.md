@@ -3,9 +3,9 @@
 Frontend Developer, Freelance, Tech enthusiast.
 
 ### My Products 💀
-- 🤩 [Al-Qur'an Digital](https://github.com/suryamsj/al-quran-digital)
-- 🤡 [Nyumput](https://nyumput.vercel.app/)
-- 😆 [SIPP](https://github.com/suryamsj/SIPP)
+- 🤩 [Al-Qur'an Digital](https://github.com/suryamsj/al-quran-digital). A website to display and play surah from the Quran.
+- 🤡 [Nyumput](https://nyumput.vercel.app/). A website that works similarly to secreto.
+- 😆 [SIPP](https://github.com/suryamsj/SIPP). A useful desktop application for keeping track of your expenses
 
 ### My Works 🤖
 - 🐱‍🐉 [Bsideclass](https://bsideclass.id/). A website company profile as a frontend and designer website.
