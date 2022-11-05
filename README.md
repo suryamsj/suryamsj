@@ -1,92 +1,19 @@
-## Hey 👋, I'm Muhammad Surya J!  
-  
+## Hey 👋, I'm Muhammad Surya J!
 
-<a href="https://github.com/suryamsj" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/suryaaamsj/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/suryamsj" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.youtube.com/channel/UCyLXAx2zineeQ9VzgqjFqJA" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%E74C3C.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+Frontend Developer, Freelance, Tech enthusiast.
 
+### My Products 💀
+- 🤩 [Al-Qur'an Digital](https://github.com/suryamsj/al-quran-digital)
+- 🤡 [Nyumput](https://nyumput.vercel.app/)
+- 😆 [SIPP](https://github.com/suryamsj/SIPP)
 
-### Glad to see you here!  
-I liked coding since I was in 6th grade (while on holiday waiting for the national exam results). 🔥🔥🔥  
-  
+### My Works 🤖
+- 🐱‍🐉 [Bsideclass](https://bsideclass.id/). A website company profile as a frontend and designer website.
+- 🐱‍🚀 [Teknoday](https://trilogi.ac.id/teknoday/). A website that displays services or products from the Technopreneur course as a fullstack web developer
 
-<br/>  
-
-
-## Info  
-<table><tr><td valign="top" width="50%">
-
-- 🎓 Graduated from Trilogy University
-- ⚡ I like to drink tea  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.imgur.com/JpILMsz.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suryamsj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryamsj&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+### Find Me 👀
+- 🥩 [LinkedIn](https://www.linkedin.com/in/suryamsj/)
+- 🥞 [Instagram](https://www.instagram.com/suryaaamsj/)
+- 🍔 [Youtube](https://youtube.com/@suryamsj)
+- 🍟 [Telegram](https://telegram.me/ciiciociii)
+- 🍵 [Trakteer](https://trakteer.id/suryamsj)
