@@ -10,9 +10,10 @@ Frontend Developer, Freelance, Tech enthusiast.
 - 😆 [SIPP](https://github.com/suryamsj/SIPP). A useful desktop application for keeping track of your expenses
 
 ### My Works 🤖
-- 🐱‍🐉 [Bsideclass](https://bsideclass.id/). A website company profile as a frontend and designer website.
-- 🐱‍🚀 [Teknoday](https://trilogi.ac.id/teknoday/). A website that displays services or products from the Technopreneur course as a fullstack web developer
-- 🦉 [Roacoco](https://roacoco.com/). Website company profile for a Rococo company that focuses on coconut processing
+- 😺 [Bsideclass](https://bsideclass.id/). Website company profile as a frontend and designer website.
+- 😸 [Teknoday](https://trilogi.ac.id/teknoday/). A website that displays services or products from the Technopreneur course as a fullstack web developer
+- 😹 [Roacoco](https://roacoco.com/). Website company profile for a Rococo company that focuses on coconut processing
+- 😻 [Iqralabs](https://iqralabs.co.id/home/). Website company profile for a Maunggaji company focused on Islamic religious education
 
 ### Find Me 👀
 - 🥩 [LinkedIn](https://www.linkedin.com/in/suryamsj/)
