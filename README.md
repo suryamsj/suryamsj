@@ -6,7 +6,7 @@ Frontend Developer, Freelance, Tech enthusiast.
 
 ### My Products 💀
 
-- 😆 [Sveltekit Vali Admin](https://github.com/suryamsj/sveltekit-vali-admin). Rebuild vali admin template using Sveltekit
+- 😆 [Sveltekit Vali Admin](https://github.com/suryamsj/sveltekit-vali-admin). Rebuild vali admin template using Sveltekit.
 - 😏 [Laundry Kit](https://github.com/suryamsj/laundry-kit). A simple application specifically designed to assist in managing a laundry business.
 - 🤤 [Customer Service Satisfaction Survey Application](https://github.com/suryamsj/aplikasi-survei-kepuasan-pelayanan-pelanggan). The Customer Service Satisfaction Survey application was created using Sveltkit as the Frontend, PHP Native to create the Rest API and MYSQL as the database.
 - 🤩 [Al-Qur'an Digital](https://github.com/suryamsj/al-quran-digital). A website to display and play surah from the Quran.
