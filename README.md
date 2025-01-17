@@ -18,7 +18,7 @@ Frontend Developer, Freelance, Tech enthusiast.
 - 😾 [ArsGenii! .Inc](https://arsgenii.vercel.app/). This website is a company profile for the agency that my friends and I created.
 - 😿 [PPRPI](https://pprpi.com/). Dynamic website for the Punguan Pomparan Raja Pasaribu Indonesia Organization. This project was created using Codeigniter 3.
 - 🙀 [TrackIT](https://propertyofzwoldrei.vercel.app/). My younger brother asked me to give him a website that serves to introduce the products that have been made.
-- 😻 [Iqralabs](https://iqralabs.co.id/home/). Website company profile for a Maunggaji company focused on Islamic religious education.
+- 😻 [Iqralabs](https://iqralabs.co.id/). Website company profile for a Maunggaji company focused on Islamic religious education.
 - 😹 [Roacoco](https://roacoco.com/). Website company profile for a Rococo company that focuses on coconut processing.
 - 😼 [Kaia Nusantara](https://www.kaianusantara.id/). Website company profile for a Kaia Nusantara.
 - 😺 [Bsideclass](https://bsideclass.id/). Website company profile as a frontend and designer website.
