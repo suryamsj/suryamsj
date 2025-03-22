@@ -6,14 +6,14 @@ Frontend Developer, Freelance, Tech enthusiast.
 
 ### My Products 💀
 
+- 🤖 [Cerita Pintar](https://cerita-pintar.vercel.app). Creating illustrated stories for children aged 0 - 8 years using AI, made with Sveltekit and Gemini AI.
 - 😆 [Sveltekit Vali Admin](https://github.com/suryamsj/sveltekit-vali-admin). Rebuild vali admin template using Sveltekit.
 - 😏 [Laundry Kit](https://github.com/suryamsj/laundry-kit). A simple application specifically designed to assist in managing a laundry business.
 - 🤤 [Customer Service Satisfaction Survey Application](https://github.com/suryamsj/survei-kepuasaan-pelayanan). The Customer Service Satisfaction Survey application was created using Sveltkit as the Frontend, PHP Native to create the Rest API and MYSQL as the database.
 - 🤩 [Al-Qur'an Digital](https://github.com/suryamsj/al-quran-digital). A website to display and play surah from the Quran.
 - 🤡 [Nyumput](https://nyumput.vercel.app/). A website that works similarly to secreto.
-- 😆 [SIPP](https://github.com/suryamsj/SIPP). A useful desktop application for keeping track of your expenses
 
-### My Works 🤖
+### My Works 🛠️
 
 - 😾 [ArsGenii! .Inc](https://arsgenii.vercel.app/). This website is a company profile for the agency that my friends and I created.
 - 😿 [PPRPI](https://pprpi.com/). Dynamic website for the Punguan Pomparan Raja Pasaribu Indonesia Organization. This project was created using Codeigniter 3.
@@ -29,6 +29,6 @@ Frontend Developer, Freelance, Tech enthusiast.
 - 🥩 [LinkedIn](https://www.linkedin.com/in/suryamsj/)
 - 🥞 [Instagram](https://www.instagram.com/suryaaamsj/)
 - 🍔 [Youtube](https://youtube.com/@suryamsj)
-- 🍟 [Telegram](https://telegram.me/ciiciociii)
 - 🍜 [Tiktok](https://www.tiktok.com/@suryamsj)
 - 🍵 [Trakteer](https://trakteer.id/suryamsj)
+- 🍕 [WhatsApp](https://wa.me/6285155001401)
